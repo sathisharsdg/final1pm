@@ -7,6 +7,7 @@ function App() {
       <header className="App-header">
     <h1>Welcome React from Moorthy and Dhanush and Gokul</h1>
      <h1>Welcome React from Moorthy and Dhanush and Gokul NEWWWWWWWWWWWW</h1>
+    <h2>Welcome again by sathish</h2>
         <img src={logo} className="App-logo" alt="logo" />
         <p>
           Edit <code>src/App.js</code> and save to reload.
